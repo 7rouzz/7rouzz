@@ -10,7 +10,7 @@
   
  🌱 I’m currently learning **Flutter, DevOps, AWS**
 
-💬 Ask me about **Java, Spring Boot, React ... or anything [here](https://github.com/7rouzz/7rouzz/issues)**
+💬 Ask me about **Java, Spring Boot, Angular ... or anything [here](https://github.com/7rouzz/7rouzz/issues)**
 
  </div>
  
@@ -31,7 +31,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,flutter,vscode,next,github,figma,tailwind,git," />
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,angular,flutter,vscode,next,github,figma,tailwind,git," />
     <img src="https://skillicons.dev/icons?i=spring,linux,laravel,nestjs,py,php,java,javascript,postgres,typescript,express,firebase,mongodb,mysql" /><br>
 </div>
 
