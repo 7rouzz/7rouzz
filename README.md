@@ -10,7 +10,7 @@
   
  🌱 I’m currently learning **Flutter, DevOps, AWS**
 
-💬 Ask me about **Java, Spring Boot, Angular ... or anything [here](https://github.com/7rouzz/7rouzz/issues)**
+💬 Ask me about **Java, Spring Boot, NextJs ... or anything [here](https://github.com/7rouzz/7rouzz/issues)**
 
  </div>
  
